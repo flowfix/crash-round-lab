@@ -1,0 +1,8 @@
+{
+  "name": "crash-round-lab",
+  "displayName": "Crash Round Lab",
+  "description": "Measured crash-game statistics from a published 1,000,000-round dataset: bust distribution, session outcomes and streaks. It measures — it never predicts.",
+  "homepage": "https://crashroundlab.onezupper.cv/",
+  "author": "Chicken Road Productions",
+  "mcp": "https://crashroundlab.onezupper.cv/mcp"
+}
